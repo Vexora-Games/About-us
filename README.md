@@ -1,4 +1,4 @@
-# 🎮 Vexora Games
+# 🎮 Vexora Technologies FZE
 ---
 # We don’t make games like everyone else.
 
